@@ -20,11 +20,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
       images: [
-        "https://i.dummyjson.com/data/products/1/1.jpg",
-        "https://i.dummyjson.com/data/products/1/2.jpg",
-        "https://i.dummyjson.com/data/products/1/3.jpg",
-        "https://i.dummyjson.com/data/products/1/4.jpg",
-        "https://i.dummyjson.com/data/products/1/thumbnail.jpg",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529588463898714/iphone-8-03.webp?ex=65ee87db&is=65dc12db&hm=dd5c3e789e115fa90117fe849f52647cad3ff969f780818bc994b1e14010cc57&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529588891459675/apple-iphone-9-raw-1665199.webp?ex=65ee87db&is=65dc12db&hm=656d4fb5b80d0e4ef1841496139a1f7d63f66f7a46bf3b00ddd1aa1ca331a026&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529589361352756/iPhone-9-and-9-plus_5e71d66e079f2.jpg?ex=65ee87db&is=65dc12db&hm=dad5c112311cd86d087c8cd126454af45b37517869d6233fc7cbd843276bf158&"
+
       ],
     },
     {
@@ -40,10 +39,11 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
       images: [
-        "https://i.dummyjson.com/data/products/2/1.jpg",
-        "https://i.dummyjson.com/data/products/2/2.jpg",
-        "https://i.dummyjson.com/data/products/2/3.jpg",
-        "https://i.dummyjson.com/data/products/2/thumbnail.jpg",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211528368902905856/OIP.jpg?ex=65ee86b8&is=65dc11b8&hm=544baa0a70afacd02fae32bfd2476cfd417488adb8ef53101b442ebbdcc887a2&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211528369129394247/OIP_1.jpg?ex=65ee86b8&is=65dc11b8&hm=b660b6a692a9afa9841183f8112b32e7b69436c41a27829343c6b4a0ea9e5afc&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211528369129394247/OIP_1.jpg?ex=65ee86b8&is=65dc11b8&hm=b660b6a692a9afa9841183f8112b32e7b69436c41a27829343c6b4a0ea9e5afc&",
+        "https://media.discordapp.net/attachments/1022798038395273217/1211528369632706610/OIP_3.jpg?ex=65ee86b8&is=65dc11b8&hm=7b66ad2f5fdf45f517ab0c47d79317d570cd2fc0119c35345d059b16a5df8dec&=&format=webp&width=106&height=108",
+        "https://media.discordapp.net/attachments/1022798038395273217/1211528923322650666/OIP_5.jpg?ex=65ee873c&is=65dc123c&hm=11b929b8bf0603a2795633b91cd5a6260c622a3840c4effcd14bc0535f21280a&=&format=webp&width=106&height=106",
       ],
     },
     {
@@ -58,7 +58,7 @@ const App = () => {
       brand: "Samsung",
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/3/thumbnail.jpg",
-      images: ["https://i.dummyjson.com/data/products/3/1.jpg"],
+      images: ["https://cdn.discordapp.com/attachments/1022798038395273217/1211530300144754768/download.jpg?ex=65ee8884&is=65dc1384&hm=5db507d01607f9ca5251c97c43784b55a111e545138fd06cbd360f7ed5f322f5&"],
     },
     {
       id: 4,
@@ -72,11 +72,10 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
       images: [
-        "https://i.dummyjson.com/data/products/4/1.jpg",
-        "https://i.dummyjson.com/data/products/4/2.jpg",
-        "https://i.dummyjson.com/data/products/4/3.jpg",
-        "https://i.dummyjson.com/data/products/4/4.jpg",
-        "https://i.dummyjson.com/data/products/4/thumbnail.jpg",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211530299410747452/download_3.jpg?ex=65ee8884&is=65dc1384&hm=4e1cecb69c46aa4afcfe2cb77f7680266111bbc5385ce2c7b69a5da2a847db11&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211530299654279178/download_2.jpg?ex=65ee8884&is=65dc1384&hm=ca0c9ea533a2e09d483d5117db4e11756514d0799d13030971df8a75fd57984a&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211530299947753532/download_1.jpg?ex=65ee8884&is=65dc1384&hm=b05149eab7cbacd0d045cdd988b79f54a1f531f902b00875ecd03e62ed2ca125&",
+        
       ],
     },
     {
@@ -92,9 +91,9 @@ const App = () => {
       category: "smartphones",
       thumbnail: "https://i.dummyjson.com/data/products/5/thumbnail.jpg",
       images: [
-        "https://i.dummyjson.com/data/products/5/1.jpg",
-        "https://i.dummyjson.com/data/products/5/2.jpg",
-        "https://i.dummyjson.com/data/products/5/3.jpg",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529547887939584/th.jpg?ex=65ee87d1&is=65dc12d1&hm=add068d148741212e44830409d04573fda9c1de694a0f034d3ffe39a39c59c4b&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529548110233670/th_1.jpg?ex=65ee87d1&is=65dc12d1&hm=71307f1ce1c307499b09e4b26aabfbe380ab971c01e8078f55fa81b7f3a0cc24&",
+        "https://cdn.discordapp.com/attachments/1022798038395273217/1211529548341051432/OIP_6.jpg?ex=65ee87d1&is=65dc12d1&hm=9e3f92582e3a7e63ee163f1d152fd6a41bff515c4af0c9862aa50e993b57c9da&",
       ],
     },
     {
@@ -202,7 +201,7 @@ const App = () => {
 
   ];
   const [data, setData] = useState(products); //storing the products in the data
- 
+
   const totalPrice = data.reduce(
     (total, data) => total + data.price * (data.quantity || 0), 0
   ); // To recieve the total price and quantity  of all items in cart
